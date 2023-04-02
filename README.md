@@ -3,4 +3,4 @@
 Exercício utilizando a propriedade "confirm" e "alert" em JavaScript
 
 
-![exercicio2](https://user-images.githubusercontent.com/127905683/229381225-a2b1e45a-c204-41a3-95b0-77b55b217cd6.gif)
+![exercicio2](https://user-images.githubusercontent.com/127905683/229381379-167a976c-e118-4460-b5a2-162917479528.gif)
